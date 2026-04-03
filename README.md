@@ -1,11 +1,11 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/res/waving.gif" width="30px"> I'm Ignacio Cuevas
+# Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Ignacio Cuevas
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=wave&color=00e5ff&height=300&section=header&text=Ignacio%20Cuevas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Kinesiologist%20%26%20Front-end%20Developer&descAlignY=51&descAlign=50" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="400px" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e5230b-4a51-4145-8ca8-f354e8d4d594.gif" width="200px" />
 </p>
 
 ## 🦴 About Me (Sobre mí)
@@ -51,8 +51,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ignacio-Cuevas&show_icons=true&theme=tokyonight&count_private=true&title_color=00e5ff&icon_color=00e5ff" alt="Ignacio-Cuevas GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ignacio-Cuevas&layout=compact&theme=tokyonight&title_color=00e5ff" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ignacio-Cuevas&show_icons=true&theme=tokyonight&count_private=true&title_color=00e5ff&icon_color=00e5ff" alt="Ignacio-Cuevas GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ignacio-Cuevas&layout=compact&theme=tokyonight&title_color=00e5ff" alt="Most Used Languages" />
 </p>
 
 <p align="center">
