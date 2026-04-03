@@ -1,7 +1,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Ignacio Cuevas
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=00e5ff&height=300&section=header&text=Ignacio%20Cuevas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Kinesiologist%20%26%20Front-end%20Developer&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff&height=300&section=header&text=Ignacio%20Cuevas&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Kinesiologist%20and%20Front-end%20Developer&descAlignY=51&descAlign=50" />
 </p>
 
 <p align="center">
